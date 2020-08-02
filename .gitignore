@@ -1,0 +1,17 @@
+
+dist
+.env
+.cache
+*.pyc
+*.egg-info
+/build
+MANIFEST
+
+.python-version
+.idea
+.tox
+.ropeproject
+.coveralls.yml
+.coverage
+.DS_Store
+htmlcov
