@@ -2,6 +2,7 @@ brotli-file
 ===========
 
 Add `brotli_file.open` as a file interface.
+This package works with `brotli` package, but not with `brotlipy`.
 
 .. code:: python
 
